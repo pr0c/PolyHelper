@@ -1,0 +1,10 @@
+CREATE TABLE subjects(
+        id int,
+        user_id int,
+        subject_title varchar(50),
+        lab_count int,
+        lab_accepted_count int,
+        lab_ready_count int,
+        points int,
+        difficulty int
+      );

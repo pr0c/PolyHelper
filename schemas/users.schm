@@ -1,0 +1,6 @@
+CREATE TABLE users(
+        id int,
+        fname varchar(15),
+        lname varchar(15),
+        subs int
+      );
